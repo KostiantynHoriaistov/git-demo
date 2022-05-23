@@ -1,2 +1,4 @@
 The id attribute defines the HTML element. 
 The innerHTML property defines the HTML content
+3.	Placing scripts at the bottom of the <body> element improves the display speed, 
+because script interpretation slows down the display.
